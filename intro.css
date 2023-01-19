@@ -1783,7 +1783,7 @@ body{
 .box-content .right .content p{
     padding: 30px 15px 0px 15px;
     text-align: center;
-    display: flex;
+   overflow: hidden;
     font-size: 18px;
     font-family: 'Dancing Script', cursive;
     opacity: 0;
