@@ -1767,7 +1767,7 @@ body{
 }
 .box-content .right .content .title h1{
     margin-top: -40px;
-    transition: 0.5s;
+   /* transition: 0.5s; */
 }
 .slider3:hover .title h1{
     /*animation: title 2s forwards;*/
