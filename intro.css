@@ -1760,10 +1760,10 @@ body{
     font-family: 'Dancing Script', cursive;
     width: 150px;
     height: 40px;
-    display: flex;
+   /* display: flex; */
     justify-content: center;
     margin-top: 5px;
-    overflow: hidden;
+  /* overflow: hidden; */
 }
 .box-content .right .content .title h1{
     margin-top: -40px;
