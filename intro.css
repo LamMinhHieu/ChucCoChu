@@ -1760,17 +1760,17 @@ body{
     font-family: 'Dancing Script', cursive;
     width: 150px;
     height: 40px;
-    /*display: flex;*/
+    display: flex;
     justify-content: center;
     margin-top: 5px;
     overflow: hidden;
 }
 .box-content .right .content .title h1{
     margin-top: -40px;
-   /* transition: 0.5s; */
+   transition: 0.5s; 
 }
 .slider3:hover .title h1{
-    /*animation: title 2s forwards;*/
+    animation: title 2s forwards;
 }
 @keyframes title{
     0%{
