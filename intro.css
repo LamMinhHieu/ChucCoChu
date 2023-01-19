@@ -1770,7 +1770,7 @@ body{
     transition: 0.5s;
 }
 .slider3:hover .title h1{
-   /* animation: title 2s forwards; */
+    animation: title 2s forwards; 
 }
 @keyframes title{
     0%{
